@@ -10,3 +10,6 @@ spring:
     application:
       name: microservicecloud-config-atguigu-test
 #请保存为UTF-8格式
+
+hello: helloWorld
+message:congratulation success
